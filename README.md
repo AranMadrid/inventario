@@ -1,0 +1,2 @@
+# inventario
+ejercicio sencillo
